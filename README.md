@@ -1,2 +1,2 @@
-# semester1
+# Semester 1
 Processing (Java)
